@@ -1,0 +1,1 @@
+This is my first javascript code, it feels great to be a developer already
